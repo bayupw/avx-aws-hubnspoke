@@ -1,0 +1,7 @@
+env.tf
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate
+terraform.tfstate*
+backup/
+not-provisioned/
